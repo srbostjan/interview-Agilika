@@ -20,5 +20,4 @@ App desarrollada en React Native
 <img src="https://i.ibb.co/0t7nt35/Whats-App-Image-2021-08-23-at-3-15-06-PM-3.jpg">
 <img src="https://i.ibb.co/vvwMvF0/Whats-App-Image-2021-08-23-at-3-15-06-PM-2.jpg">
 <img src="https://i.ibb.co/MgKLTTn/Whats-App-Image-2021-08-23-at-3-15-06-PM.jpg">
-<img src="https://i.ibb.co/7rtR5Hn/Whats-App-Image-2021-08-23-at-3-15-06-PM-1.jpg
-">
+<img src="https://i.ibb.co/7rtR5Hn/Whats-App-Image-2021-08-23-at-3-15-06-PM-1.jpg">
