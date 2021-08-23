@@ -2,6 +2,12 @@
 
 Prueba desarrollada para entrevista de Agilika
 
+## Instrucciones
+-clonar repositorio
+- ejecutar `yarn add` en la consola
+- ejecutar `npm run start` en la consola
+- abrir con android studio o con la app en android y ios
+
 ## Prueba 1
 
 App desarrollada en React Native usando expo
