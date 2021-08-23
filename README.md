@@ -9,7 +9,7 @@ NOTA: Las pruebas se separaron en las ramas de GitHub
 
 ## Prueba 1
 
-App desarrollada en React Native
+App desarrollada en React Native usando expo
 
 ### Vistas en prototipo:
 
