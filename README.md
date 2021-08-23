@@ -1,11 +1,6 @@
 # Pruebas entrevista Agilika
 
-Pruebas desarrolladas para entrevista de Agilika
-
-NOTA: Las pruebas se separaron en las ramas de GitHub
-
-- prueba 1: App en React Native
-- prueba 2: Prueba de algoritmos en lenguaje deseado
+Prueba desarrollada para entrevista de Agilika
 
 ## Prueba 1
 
