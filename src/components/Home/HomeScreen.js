@@ -22,6 +22,7 @@ class HomeScreen extends Component {
               editable
               placeholder="Buscar"
               placeholderTextColor={colors.placeholderColor}
+              style={{color: "#fff"}}
             />
           </View>
           <View style={style.newContainer}>

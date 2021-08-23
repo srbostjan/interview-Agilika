@@ -13,8 +13,8 @@ class PostDetail extends Component {
         <View style={style.navBar}>
           <Pressable onPress={this.navigateHome}><Image source={require('../../assets/PostDetail/backIcon.png')}/></Pressable>
           <View style={style.navBarRight} >
-          <Pressable><Image style={style.navBarRightIcon} source={require('../../assets/PostDetail/shareIcon.png')}/></Pressable>
-          <Pressable><Image style={style.navBarRightIcon} source={require('../../assets/PostDetail/menuIcon.png')}/></Pressable>
+          <Pressable><Image style={style.navbarRightIcon} source={require('../../assets/PostDetail/shareIcon.png')}/></Pressable>
+          <Pressable><Image style={style.navbarRightIcon} source={require('../../assets/PostDetail/menuIcon.png')}/></Pressable>
           </View>
         </View>
         <View style={style.post}>
@@ -63,8 +63,8 @@ const style = StyleSheet.create({
     display: "flex",
     flexDirection: "row"
   },
-  navBarRightIcon: {
-    marginLeft: 10
+  navbarRightIcon: {
+    marginLeft: 20
   },
   post: {
     position: "absolute",
