@@ -13,11 +13,11 @@ App desarrollada en React Native
 
 ### Vistas en prototipo:
 
-<img src="https://i.ibb.co/SvHqPP2/Group-12.png">
+<img src="https://i.ibb.co/SvHqPP2/Group-12.png" width="300px" height="500px">
 
 ### screenshots de la app:
 
-<img src="https://i.ibb.co/0t7nt35/Whats-App-Image-2021-08-23-at-3-15-06-PM-3.jpg">
-<img src="https://i.ibb.co/vvwMvF0/Whats-App-Image-2021-08-23-at-3-15-06-PM-2.jpg">
-<img src="https://i.ibb.co/MgKLTTn/Whats-App-Image-2021-08-23-at-3-15-06-PM.jpg">
-<img src="https://i.ibb.co/7rtR5Hn/Whats-App-Image-2021-08-23-at-3-15-06-PM-1.jpg">
+<img src="https://i.ibb.co/0t7nt35/Whats-App-Image-2021-08-23-at-3-15-06-PM-3.jpg" width="300px" height="500px">
+<img src="https://i.ibb.co/vvwMvF0/Whats-App-Image-2021-08-23-at-3-15-06-PM-2.jpg" width="300px" height="500px">
+<img src="https://i.ibb.co/MgKLTTn/Whats-App-Image-2021-08-23-at-3-15-06-PM.jpg" width="300px" height="500px">
+<img src="https://i.ibb.co/7rtR5Hn/Whats-App-Image-2021-08-23-at-3-15-06-PM-1.jpg" width="300px" height="500px">
